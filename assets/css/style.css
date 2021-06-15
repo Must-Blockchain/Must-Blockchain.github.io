@@ -1,0 +1,187 @@
+
+
+:root {
+    --color-white: rgb(255, 255, 255);
+    --color-title: rgb(6, 56, 69);
+    --color-hero: rgb(70, 72, 147);
+    --color-hover: rgb(230, 201, 71);
+    --color-peso: 700;
+    --background-color: rgb(216, 219, 227);
+}
+
+h1, h2, h3 {
+    color: var(--color-title);
+    font-weight: var(--color-peso);
+}
+
+.color-fonts{
+    color: #063845;
+}
+.btncolor{
+    background-color: #07879E!important;
+    border-color: #07879E!important;
+}
+.btncolorblue{
+    background-color: #07879E;
+}
+
+.text-align {
+    text-align: center;
+}
+p {
+    font-size: 1rem;
+}
+
+.image-slider {
+    height: 40vh;
+}
+
+.textmain{
+    font-size: 24px;
+}
+
+@media(max-width: 567px) {
+    .image-slider {
+        width: 30vh;
+    }
+
+    p {
+        font-size: 0.9rem;
+    }
+}
+
+
+.hero-color {
+    background-color: var(--color-hero);
+}
+
+.btn-outline-primary {
+    color: var(--color-white);
+    border-color: var(--color-white);
+}
+
+.btn-outline-primary:hover {
+    color: var(--color-hero);
+    background-color: var(--color-white);
+}
+
+.image-hero {
+    height: 55vh;
+    width: 100%;
+}
+
+.img-home {
+    margin-top: 5%;
+}
+
+.text-section {
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.mainnet-button {
+    border-radius: 15px;
+    width: 30%;
+    height: 8vh;
+}
+
+.about {
+    margin-top: 4%;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 40vh;
+}
+
+.services1, .services2, .services3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-service {
+    margin-top: 5%;
+}
+
+.token {
+    height: 25vh;
+    background: var(--background-color);
+    margin-top: 5%;
+}
+.app {
+    height: 25vh;
+    background-color:#FF2312;
+    margin-top: 5%;
+}
+
+.token-button {
+    background-color: vaR(--color-hero);
+}
+
+.btn-products {
+    width: 80%;
+}
+
+footer {
+    background: var(--background-color);
+}
+
+form {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.btn-color {
+    color: var(--color-white);
+    background-color: var(--color-hero);
+}
+
+.custom {
+    width: 25%;
+    height: 92%;
+}
+
+.title-services {
+    text-align: left;
+}
+
+.link-navbar:hover {
+    background-color: var(--color-hover);
+    transition: 0.6s;
+}
+
+@media(max-width: 567px) {
+    .services1, .services2, .services3 {
+        margin-top: 2%;
+    }
+
+    .token {
+        height: 25vh;
+        margin-top: 18%;
+    }
+
+    .img-home {
+        display: flex;
+        justify-content: center;
+        margin-top: 0;
+    }
+
+    .text-section {
+        text-align: center;
+    }
+
+    .title-mainnet {
+        font-size: 0.9rem;
+    }
+
+    .custom {
+        width: 32%;
+    }
+
+    .title-services {
+        text-align: center;
+    }
+}
