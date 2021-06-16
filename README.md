@@ -15,4 +15,4 @@ Must Create | [Business Architecture](https://must-blockchain.github.io/MustCrea
 Must Docs | [Business Architecture](https://must-blockchain.github.io/MustDocs/BusinessArchitecture/index.html#list) | [Documentation](https://must-blockchain.github.io/MustDocs/TechnicalArchitecture/index.html) |
 Must Vote | [Business Architecture](https://must-blockchain.github.io/MustVote/BusinessArchitecture/index.html#list) | [Documentation](https://must-blockchain.github.io/MustVote/TechnicalArchitecture/index.html)| 
 Must Exchange | [Business Architecture](https://must-blockchain.github.io/MustExchange/BusinessArchitecture/index.html#list) | |
-Proar | [Business Architecture](https://must-blockchain.github.io/Proar/BusinessArchitecture/index.html#list) | |
+Proar | [Business Architecture](https://must-blockchain.github.io/Proar/BusinessArchitecture/index.html#list) | [Documentation](https://must-blockchain.github.io/Proar/TechnicalArchitecture/index.html) |
