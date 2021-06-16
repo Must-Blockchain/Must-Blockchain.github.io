@@ -18,8 +18,12 @@ h1, h2, h3 {
     color: #063845;
 }
 .btncolor{
-    background-color: #07879E!important;
-    border-color: #07879E!important;
+    background-color: #07879E;
+}
+.btn-primary{
+    border: none;
+    background-image: linear-gradient(180deg,#008ba2,#005667);
+    color: #fff;
 }
 .btncolorblue{
     background-color: #07879E;
