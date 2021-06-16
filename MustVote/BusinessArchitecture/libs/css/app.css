@@ -3609,7 +3609,7 @@ table ul {
   /* line 241, ../../sass/_export.scss */
   .biz-ex-logo-img {
     background: url("../img/MustBlockchain.svg") no-repeat;
-
+    background-size: 165px 54px;
   }
 }
 
