@@ -1,0 +1,10 @@
+<!-- docs/_sidebar.md -->
+* [Product requirements](/)
+* [Business Architecture](/business-architecture/business-architecture.md)
+* [User Stories](/)
+    * [Cadastrar Usuário](/user-stories/cadastrar-usuario.md)
+    * [Cadastrar Cliente](/user-stories/cadastrar-cliente.md)
+    * [Cadastrar Loja](/user-stories/cadastrar-loja.md)
+    * [Cadastrar Marca](/user-stories/cadastrar-marca.md)
+    * [Cadastrar Fornecedores](/user-stories/cadastrar-fornecedores.md)
+    * [Cadastrar Produto](/user-stories/cadastrar-produto.md)

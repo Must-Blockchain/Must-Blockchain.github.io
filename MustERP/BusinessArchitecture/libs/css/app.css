@@ -3600,15 +3600,15 @@ table ul {
 /* line 241, ../../sass/_export.scss */
 .biz-ex-logo-img {
   display: block;
-  width: 60px;
+  width: 166px;
   height: 55px;
   margin: 0 auto;
-  background: url("../img/MustBlockchain-logo.svg") no-repeat;
+  background: url("../img/biz-ex-logo.png") no-repeat;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   /* line 241, ../../sass/_export.scss */
   .biz-ex-logo-img {
-    background: url("../img/MustBlockchain-logo.svg") no-repeat;
+    background: url("../img/biz-ex-logo-2x.png") no-repeat;
     background-size: 165px 54px;
   }
 }
