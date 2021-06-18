@@ -7,7 +7,7 @@ You can use this space to access all of your documentation.
 Project | Business Model | Technical Model |
 :--------- | :------ | :------ | 
 Must Blockchain | [Business Architecture](https://must-blockchain.github.io/mustblockchain/BusinessArchitecture/index.html#list) | |
-Must Secure | [Business Architecture](https://must-blockchain.github.io/mustSecure/BusinessArchitecture/index.html#list) | |
+Must Secure | [Business Architecture](https://must-blockchain.github.io/mustSecure/BusinessArchitecture/index.html#list) | [Documentation](https://must-blockchain.github.io/mustSecure/TechnicalArchitecture/index.html) |
 Must ERP | [Business Architecture](https://must-blockchain.github.io/mustERP/BusinessArchitecture/index.html#list) | [Documentation](https://must-blockchain.github.io/mustERP/TechnicalArchitecture/index.html)|
 Must Explore | [Business Architecture](https://must-blockchain.github.io/mustExplore/BusinessArchitecture/index.html#list) | |
 Must Save | [Business Architecture](https://must-blockchain.github.io/mustSave/BusinessArchitecture/index.html#list) | |
