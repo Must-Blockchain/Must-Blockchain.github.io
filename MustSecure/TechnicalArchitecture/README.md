@@ -4,6 +4,23 @@
   <img width=100% src="img/Arquitetura.png">
 </p>
 
+?> Para acessar clique no link:
+> 
+> [Process Mechanics](MustSecure/ProcessMechanics.md)
+>
+> [Token HBT](MustSecure/TokenHBT.md)
+>
+> [Artigos de instruções](MustSecure/ArtigosDeInstrucoes.md)
+>
+> [Smart Contracts](MustSecure/SmartContracts.md)
+>
+> [APIs](MustSecure/APIs.md)
+>
+> [Wireframes](MustSecure/Wireframes.md)
+>
+> [Frontend](MustSecure/Frontend.md)
+
+
 # Macro Insurance
 
 ## Insurance
@@ -30,13 +47,7 @@ Seguradoras podem conectar seu serviço/produto à plataforma/blockchain - defin
 Esse processo representa o acesso ao Framework como Cliente - futuramente para o Marketplace. No momento inicial  não haverá esse processo - acesso será direto do cliente com a Seguradora que deseja contratar e todas informações serão fornecidas ali.
 Cliente faria seu acesso inicial à plataforma/blockchain e preencheria as informações necessárias para acessar o marketplace de Seguros. - definir requisitos.
 
-### Marketpace de Seguros
 
-**Confluence** | [Marketpace de Seguros](https://4cadia.atlassian.net/wiki/spaces/BI/pages/370901014/Marketplace+de+Seguros)
-
-### Negociação Direta com Seguradora
-
-**Confluence** | [Negociação Direta com Seguradora](https://4cadia.atlassian.net/wiki/spaces/BI/pages/366510086/Negocia%2Bo%2BDireta%2Bcom%2BSeguradora)
 
 ### Gerir Apólice
 
