@@ -6,19 +6,19 @@
 
 ?> Para acessar clique no link:
 > 
-> [Process Mechanics](MustSecure/ProcessMechanics.md)
+> [Process Mechanics](UserStories/ProcessMechanics.md)
 >
-> [Token HBT](MustSecure/TokenHBT.md)
+> [Token HBT](UserStories/TokenHBT.md)
 >
-> [Artigos de instruções](MustSecure/ArtigosDeInstrucoes.md)
+> [Artigos de instruções](UserStories/ArtigosDeInstrucoes.md)
 >
-> [Smart Contracts](MustSecure/SmartContracts.md)
+> [Smart Contracts](UserStories/SmartContracts.md)
 >
-> [APIs](MustSecure/APIs.md)
+> [APIs](UserStories/APIs.md)
 >
-> [Wireframes](MustSecure/Wireframes.md)
+> [Wireframes](UserStories/Wireframes.md)
 >
-> [Frontend](MustSecure/Frontend.md)
+> [Frontend](UserStories/Frontend.md)
 
 
 # Macro Insurance
