@@ -19,7 +19,7 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/CreatePersona.png">
+  <img width=100% src="img/CreateP.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>
@@ -27,7 +27,7 @@
 **Name:** Create Persona
 
 **Author:** 
-- [Camilo Prado](https://github.com/Camiloprjr) 
+
 - [Daniela Franciscatto](https://github.com/danielaanjos) 
 
 **Date:** Dec 15, 2020

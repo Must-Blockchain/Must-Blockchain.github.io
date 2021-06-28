@@ -25,7 +25,7 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/AddInformation.png">
+  <img width=100% src="img/AddInfo.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>

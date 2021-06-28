@@ -27,16 +27,14 @@
 **Create wallet:**
 
 <p align="center">
-  <img width=70% src="img/Create1.png">
-  <img width=70% src="img/Create2.png">
-  <img width=70% src="img/Create3.png">
+  <img width=100% src="img/Create1.png">
+  <img width=100% src="img/Create2.png">
 </p>
 
 **Restore wallet:**
 
 <p align="center">
-  <img width=70% src="img/Restore1.png">
-  <img width=70% src="img/Restore2.png">
+  <img width=70% src="img/.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>

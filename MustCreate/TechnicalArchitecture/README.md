@@ -1,8 +1,6 @@
 # Create
 
-?> To access the navigable process click on the link:
-
-[Create Business process](https://must-blockchain.github.io/MustCreate/BusinessArchitecture/index.html#list)
+?> To access the navigable process click on the link: [Create Business process](https://must-blockchain.github.io/MustCreate/BusinessArchitecture/index.html#list)
 
 ## Token Creator Application
 
@@ -126,11 +124,7 @@ The license management generates the recurring payment and checks whether the li
 ### Draft Pages
 
 <p align="center">
-  <img width=100% src="img/CreateToken.png">
-</p>
-
-<p align="center">
-  <img width=100% src="img/ManageToken.png">
+  <img width=100% src="img/Screens.png">
 </p>
 
 ### How it Works
@@ -919,7 +913,7 @@ Activate Plan Services and Manage Plan Services describes application rules and 
 
 Draft page:
 <p align="center">
-  <img width=100% src="img/PL6.png">
+  <img width=100% src="img/Plan.png">
 </p>
 
 #### Wallet multi-assest dashboard

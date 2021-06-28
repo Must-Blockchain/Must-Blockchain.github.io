@@ -276,7 +276,7 @@ If you don't have a wallet, the first step is to create one.
 1. On signin page, click on the button “Create Wallet
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/SignIn.png">
 </p>
 
 2. On create page now you see an important information, your mneumonic phrase
@@ -284,7 +284,7 @@ If you don't have a wallet, the first step is to create one.
 First use the button to copy your mneumonic phrase to use on the next step
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Create1.png">
 </p>
 
 If you whant to backup, use the button to download your **mneumonic phrase**, a file will be downloaded to your device.
@@ -295,20 +295,16 @@ Click **I saved my mneumonic** button to continue create your wallet.
 
 First, paste your mnemonic, which you copied in the previous step, in the Mnemonic phrase field which is empty.
 
-<p align="center">
-  <img width=100% src="img/1.png">
-</p>
-
 Now enter a password between 6 to 15 characters, confirm your password and click  **confirm** button.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Create2.png">
 </p>
 
 4. Now use your password to enter your wallet, click **Sign in** button.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Home.png">
 </p>
 
 !> It is very important that you store your mneumonic phrase in a safe place because if you need to recover your wallet you will need it.
@@ -320,19 +316,19 @@ If you already have a wallet and need to recover it, the first step is:
 1. On signin page, click on the button **Restore account**
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/.png">
 </p>
 
 2. On restore page you need paste your mneumonic phrase, create a password and confim the password, then click on **Restore** button.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/.png">
 </p>
 
 3. Now use your password to enter your wallet, click **Sign in** button
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Signin.png">
 </p>
 
 # Understanding Wallet Multi-Asset
@@ -344,7 +340,7 @@ Your token list is displayed, by default when creating the wallet a list of toke
 Your address is displayed at the top of the screen with a shortcut to copy with a click.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Home.png">
 </p>
 
 ## Actions Token
@@ -354,7 +350,7 @@ Your address is displayed at the top of the screen with a shortcut to copy with 
 Each token in the list displays the name of the token, the smart contract address of the token, and the balance you have for each token.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/.png">
 </p>
 
 ### Send action
@@ -367,7 +363,7 @@ Fill in the address to field with the token recipient's address and the value to
 A confirmation message is displayed.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Send.png">
 </p>
 
 ### Remove action
@@ -383,7 +379,7 @@ Paste the smart contract address of the token you want to add and click add.
 Your token will appear in the list on the dashboard.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Add.png">
 </p>
 
 ## Details
@@ -409,5 +405,9 @@ Backup information is displayed on the screen.
 Copy, paste and save in a safe place.
 
 <p align="center">
-  <img width=100% src="img/1.png">
+  <img width=100% src="img/Backup1.png">
+</p>
+
+<p align="center">
+  <img width=100% src="img/Backup2.png">
 </p>

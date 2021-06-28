@@ -1,4 +1,4 @@
-# 
+# Listar Candidatos
 
 <p><strong>VALUE PROPOSITION</strong></p>
 
@@ -21,7 +21,7 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/Listar.png">
+  <img width=100% src="img/ListarV2.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>
