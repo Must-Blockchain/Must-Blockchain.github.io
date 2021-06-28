@@ -167,10 +167,9 @@ Scenario: search with a invalid address
 
 **Layout Pages**
 
-?> https://www.figma.com/file/LOLeO5BWkb5eLDXnoCBoy5/4cadia-BlockExplorer?node-id=0%3A1
-
 <p align="center">
-  <img width=100% src="img/2.png">
+  <img width=100% src="img/Explore2.png">
+  <img width=100% src="img/Explore.png">
 </p>
 
 # Block Explorer API

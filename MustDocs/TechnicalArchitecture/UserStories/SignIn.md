@@ -19,9 +19,8 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/signin.png">
-
-
+  <img width=100% src="img/Signin1.png">
+  <img width=100% src="img/signin2.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>

@@ -23,7 +23,7 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/Login.png">
+  <img width=100% src="img/LoginV2.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>

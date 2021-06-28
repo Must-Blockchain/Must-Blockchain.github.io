@@ -27,11 +27,10 @@
 <p><strong>SCREEN DRAFTS</strong></p>
 
 <p align="center">
-  <img width=70% src="img/Registrar1.png">
+  <img width=100% src="img/RegistrarV2.png">
 </p>
-
 <p align="center">
-  <img width=70% src="img/Registrar2.png">
+  <img width=100% src="img/Registrar2V2.png">
 </p>
 
 <p><strong>USER STORY CARD</strong></p>
