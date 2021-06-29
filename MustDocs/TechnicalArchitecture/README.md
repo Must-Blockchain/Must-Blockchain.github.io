@@ -46,5 +46,5 @@ The certified module creates and stores this more informal type of document that
 ### Screen Drafts
 
 <p align="center">
-  <img width=100% src="img/ScreenV2.png">
+  <img width=100% src="img/MustDocs.png">
 </p>

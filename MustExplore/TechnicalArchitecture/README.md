@@ -168,8 +168,8 @@ Scenario: search with a invalid address
 **Layout Pages**
 
 <p align="center">
-  <img width=100% src="img/Explore2.png">
-  <img width=100% src="img/Explore.png">
+  <img width=100% src="img/MustExplorer.png">
+
 </p>
 
 # Block Explorer API
