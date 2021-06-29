@@ -124,7 +124,7 @@ The license management generates the recurring payment and checks whether the li
 ### Draft Pages
 
 <p align="center">
-  <img width=100% src="img/Screens.png">
+  <img width=100% src="img/MustCreator.png">
 </p>
 
 ### How it Works
@@ -169,7 +169,7 @@ All created smart contracts are  **ERC-20** standard Token, mintable and burnabl
 With this Token you can generate more tokens to increse the Total Supply of your token.
 
 | Function | Description | Default ERC-20 |
-| -------- | ----------- | -------------- |
+| -------- | ----------- | :------------: |
 | Transfer | Transfers amount of tokens from the caller’s account to recipient. | yes |
 | Allowance (approve, increase and decrease) | Checks the limit that an address_spender (approved by the token owner) can spend from _owner. | yes |
 | Transfer from | Moves amount tokens from sender to recipient. | yes |
@@ -178,7 +178,7 @@ With this Token you can generate more tokens to increse the Total Supply of your
 - **Events** are important because they facilitate communication between smart contracts and their user interfaces.
 
 | Event | Description | Default ERC-20 |
-| ----- | ----------- | -------------- |
+| ----- | ----------- | :------------: |
 | Transfer | Emitted when value tokens are moved from one account (from) to another (to). | yes |
 | Approval | Emitted when the allowance of a spender for an owner is set by a call to approve. | yes |
 
