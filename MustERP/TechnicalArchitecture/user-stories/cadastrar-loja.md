@@ -125,6 +125,7 @@ Background: user access register store page
         When I click "Salvar" button
         Then I see a success <message>
         And system register the store 
+
 @update_store
 
 Feature: Edit stores information
@@ -161,6 +162,7 @@ Background: user access register store page
         When I click "Salvar" button
         Then I see a success <message>
         And system register the store 
+
 @delete_customer
 
 Feature: delete a registerd store

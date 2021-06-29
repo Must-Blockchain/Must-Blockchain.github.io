@@ -16,20 +16,20 @@
 
 | Feature | User Story | Status   |
 | ---------- |:------------:| :------------:|
-| Login         | Como um usuário cadastrado quero fazer o login na aplicação.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
+| [Login](user-stories/Login.md)         | Como um usuário cadastrado quero fazer o login na aplicação.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | Login com 2FA         | Como um usuário cadastrado quero fazer o login na aplicação com segurança.            | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
-| Recuperação e Alteraçao de  senha       | Como um usuário cadastrado quero recuperar minha senha ou alterar caso necessário.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
+| [Recuperação e Alteraçao de  senha](user-stories/RecuperarAcesso.md)       | Como um usuário cadastrado quero recuperar minha senha ou alterar caso necessário.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | [Cadastrar usuário](user-stories/cadastrar-usuario.md)       | Como admin da aplicação quero cadastrar novos usuários.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | Cadastrar funcionário       | Como admin da aplicação quero cadastrar os funcionários da empresa.           | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
 | Cadastrar roles       | Como admim da aplicação quero definir os níveis de acesso dos usuários na aplicação.           | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
 | [Cadastrar produtos](/user-stories/cadastrar-produto.md)       | Como gestor do estoque quero cadastrar os novos produtos.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | [Cadastrar marca](/user-stories/cadastrar-marca.md)       | Como gestor do estoque quero cadastrar as marcas dos produtos.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | [Cadastrar cliente](user-stories/cadastrar-cliente.md)        | Como um usuário cadastrado quero recuperar minha senha ou alterar caso necessário.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
-| Cadastrar categorias e subcategoria       | Como gestor do estoque quero relacionar os produtos por grupos e categorias.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
+| [Cadastrar categorias e subcategoria](user-stories/Cadastrar-categoria.md)       | Como gestor do estoque quero relacionar os produtos por grupos e categorias.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | Importar produtos em lote       | Como gestor do estoque quero cadastrar os produtos de uma forma dinâmica.           | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
 | [Cadastrar loja](user-stories/cadastrar-loja.md)        | Como admin quero  cadastrar filiais de loja diferentes para controlar a mercadoria do estoque.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
-| Ajustar Estoque       | Como gestor do estoque quero registrar as movimentações dos produtos no estoque.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
-| Cadastrar Variação de Produto       | Como gestor do estoque quero criar a lista de variações de produtos.          | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
+| [Ajustar Estoque](user-stories/AjustarEstoque.md)       | Como gestor do estoque quero registrar as movimentações dos produtos no estoque.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
+| [Cadastrar Variação de Produto](user-stories/Cadastro-variacao.md)       | Como gestor do estoque quero criar a lista de variações de produtos.          | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
 | Emitir etiqueta de produto      | Como estoquista quero emitir as etiquetas dos produtos do estoque.           | <mark style="background-color:gainsboro;color:grey;font-weight: bold;">To Do</mark>            | 
 | [Cadastrar Fornecedor](/user-stories/cadastrar-fornecedores.md)       | Como gestor do estoque quero cadastrar os fornecedores dos produtos que vendemos.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
 | Cadastro de conta bancária       | Como usuário do financeiro quero cadastrar as contas bancárias do estabelecimento.           | <mark style="background-color:aquamarine;color:green;font-weight: bold;">Done</mark>            | 
@@ -55,8 +55,7 @@
 ## Business Architecture
 
 ?> Para acessar o processo navegável clique no link:
-
-[Must-ERP Business process](https://must-blockchain.github.io/MustERP/BusinessArchitecture/index.html#list)
+[PoP-ERP Business process](https://pop-blockchain.github.io/PoPERP/BusinessArchitecture/index.html#list)
 
 <p><strong>Cadastro de Usuário</strong></p>
 
@@ -112,10 +111,3 @@ O usuário pode fazer isso diretamente no sistema.</P>
 
 ---
 
-## User Stories
-
-| User Story | User Story |
-|:------------:|:------------:|
-| [Cadastrar Usuário](user-stories/cadastrar-usuario.md) | [Cadastrar Marca](user-stories/cadastrar-marca.md) |
-| [Cadastrar Cliente](user-stories/cadastrar-cliente.md)  | [Cadastrar Fornecedores](user-stories/cadastrar-fornecedores.md) |
-| [Cadastrar Loja](user-stories/cadastrar-loja.md)  | [Cadastrar Produto](user-stories/cadastrar-produto.md) |
