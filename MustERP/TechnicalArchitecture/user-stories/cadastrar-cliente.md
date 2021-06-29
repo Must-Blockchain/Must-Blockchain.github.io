@@ -139,4 +139,69 @@ Background: seller user access manage customer page
         Then I see a success <message>
         And system register customer
 
+@update_customer
+
+Feature: update a customer
+    In order to I need update a customer information
+    As a role permissioned I want to update customers registers
+
+Background: user access manage customer page
+    Given I logged in the application
+    When I click "Gestão de CLientes" sidebar menu item
+    Then System show "/manage-customer" page
+
+    Scenario: update customer with invalid e-mail
+        Given I select a user at list
+        And I click "editar" button
+        And System show "/form-customer" modal
+        When I enter invalid <email> in the e-mail field
+        Then I see a warning <message>
+        And I can not save customer
+
+     Scenario: update customer with invalid cell number
+        Given I select a user at list
+        And I click "editar" button
+        And System show "/form-customer" modal
+        When I enter invalid <cell-number> in the Cell phone field
+        Then I see a warning <message>
+        And I can not save customer     
+
+    Scenario: update customer with no name
+        Given I select a user at list
+        And I click "editar" button
+        And System show "/form-customer" modal
+        When I click "Salvar" button
+        And name field is empty
+        Then I see a warning <message>
+        And I can not save customer
+        
+    Scenario: Valid update customer
+        Given I select a user at list
+        And I click "editar" button
+        And System show "/form-customer" modal
+        And I select "tipo cliente"
+        And I fill the <name> field
+        When I click "Salvar" button
+        Then I see a success <message>
+        And system register customer
+
+@delete_customer
+
+Feature: delete a customer
+    In order to I need to delete a customer information
+    As a role permissioned I want to delete the customers registers
+
+Background: user access manage customer page
+    Given I logged in the application
+    When I click "Gestão de CLientes" sidebar menu item
+    Then System show "/manage-customer" page
+
+    Scenario: delete customer
+        Given I select a user at list
+        And I click "Excluir" button
+        And System show a warning <message>
+        When I click "confirm" the <message>
+        Then I system delete customer information
+        And I do not see at the customer list
+
 ```
