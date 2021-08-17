@@ -34,10 +34,10 @@ The certified module creates and stores this more informal type of document that
 
 | Requirement | User Story |
 | ----------- | ---------- |
-| [Create Account](UserStories/CreateAccount.md) | As a user I want to create an account to use Must Docs and keep my documents safe. |
-| [Restore Account](UserStories/CreateAccount.md) | As a user who already has an account I want to be able to recover my account to use Must Docs and keep my documents safe. |
-| [Create Persona](UserStories/CreatePersona.md) | As a user I want to create my Persona to add my information and documents. |
-| [Add Information](UserStories/AddInformation.md) | As a Persona I want to add my information and documents to be able to validate them |
+| [Create Account](MustSecure/UserStories/CreateAccount.md) | As a user I want to create an account to use Must Docs and keep my documents safe. |
+| [Restore Account](MustSecure/UserStories/CreateAccount.md) | As a user who already has an account I want to be able to recover my account to use Must Docs and keep my documents safe. |
+| [Create Persona](MustSecure/UserStories/CreatePersona.md) | As a user I want to create my Persona to add my information and documents. |
+| [Add Information](MustSecure/UserStories/AddInformation.md) | As a Persona I want to add my information and documents to be able to validate them |
 | Validate Information | As a validator I want to access an application to validate the information sent to me. |
 | Access profile information | As a Must Docs user I want to access my profile information in the application. |
 | Certifications | As Persona I want to create and receive certificates |
